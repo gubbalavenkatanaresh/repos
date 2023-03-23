@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.btn {
+  border: none;
+  background: none;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.select-btn {
+  color: #0284c7;
+  border: #0284c7 2px solid;
+  border-radius: 20px;
+}
